@@ -75,7 +75,7 @@ h1 {
 h2 {
   font-family: "Inter", Regular, sans-serif;
   text-decoration: underline solid rgba(70, 26, 3, 255) 5px;
-  font-size: 1rem;
+  font-size: 2rem;
   color: #734105;
   font-weight: normal;
   margin: 0;
@@ -146,8 +146,9 @@ h2 {
 }
 
 #new-article {
-  background: #f3f3f3 url(img/new.jpg) no-repeat;
-}
+  background: #f3f3f3;
+/*   background: #f3f3f3 url(img/new.jpg) no-repeat;
+ */}
 
 #new-article #corner {
   padding: 0 0 20px 0;
