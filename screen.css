@@ -642,7 +642,7 @@ ul li a {
 
 /* For Mobile Portrait View */
 
-@media (max-width: 768px) {
+@media (max-width: 480px) {
   
   #container {
     display: flex;
@@ -727,7 +727,7 @@ ul li a {
 
 
 
-@media (min-width: 769px) {
+@media (min-width: 481px) {
   #container {
     display: flex;
     justify-content: space-between;
