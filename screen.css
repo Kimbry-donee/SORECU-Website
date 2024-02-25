@@ -642,7 +642,7 @@ ul li a {
 
 /* For Mobile Portrait View */
 
-@media (max-width: 480px) {
+@media (max-width: 700px) {
   
   #container {
     display: flex;
